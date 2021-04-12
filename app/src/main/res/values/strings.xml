@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">elContador1.0</string>
+    <string name="nueva_transaccion_title">Nueva Transaccion</string>
+    <string name="receive">Receive</string>
+    <string name="amount">Amount</string>
+    <string name="paid_by">Paid by</string>
+    <string name="comments">Comments</string>
+    <string name="comments_hint">Comments</string>
+    <string name="submit">Submit</string>
+    <string name="cash_out">Cash out</string>
+    <string name="cash_in">Cash in</string>
+    <string-array name="category_items">
+        <item>Rent</item>
+        <item>Toilets</item>
+        <item>Deposit</item>
+    </string-array>
+    <string-array name="subCategory_items">
+        <item>monthlyFee</item>
+        <item>maintenance</item>
+        <item>deposit</item>
+    </string-array>
+</resources>
