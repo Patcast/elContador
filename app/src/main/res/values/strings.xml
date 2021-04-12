@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">elContador1.0</string>
+    <string name="app_name">elContador 1.0</string>
     <string name="nueva_transaccion_title">Nueva Transaccion</string>
     <string name="receive">Receive</string>
     <string name="amount">Amount</string>
